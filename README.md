@@ -1,4 +1,4 @@
-# Optimal Interpolation (OI) Safe Controller
+# Optimally Interpolated (OI) Safe Controller
 Abstract - 
 
 
