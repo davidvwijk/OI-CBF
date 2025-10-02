@@ -16,7 +16,6 @@ Module contains functions required for propagating dynamics.
 
 import numpy as np
 from scipy.integrate import solve_ivp
-import jax.numpy as jnp
 
 
 class Dynamics:
