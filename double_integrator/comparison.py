@@ -15,7 +15,7 @@ Compares vanilla bCBF-QP, vanilla regulation function bCBF, and optimally interp
 """
 
 from main_sim import Simulation
-from plotting_paper_comparison_full import PaperPlotter
+from plotting_paper_comparison import PaperPlotter
 from pathlib import Path
 
 
