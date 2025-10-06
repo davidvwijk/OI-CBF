@@ -25,7 +25,7 @@ if __name__ == "__main__":
 
     show_plots = False
     save_plots = True
-    rerun_sims = False
+    rerun_sims = True
 
     base_dir = os.path.dirname(__file__)
 
