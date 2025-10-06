@@ -239,7 +239,7 @@ class Dynamics:
         """
         f = np.array(
             [
-                x[6] + (x[7] * self.g / self.VT) * np.sin(x[0] * np.tan(x[1])),
+                x[6] + (x[7] * self.g / self.VT) * np.sin(x[0]) * np.tan(x[1]),
                 self.g / self.VT * (x[7] * np.cos(x[0]) - np.cos(x[1])),
                 (x[7] * self.g * np.sin(x[0])) / (self.VT * np.cos(x[1])),
                 self.VT * np.cos(x[1]) * np.cos(x[2]),

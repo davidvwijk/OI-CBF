@@ -63,7 +63,7 @@ class Constraint:
         return hb
 
     def grad_hb3(self, x):
-        gb = np.array([0, 0, 0, 0, 0, 2 * (self.H_star - x[5]) / self.c_H, 0, 0])
+        gb = np.array([0, 0, 0, 0, 0, (2 * (self.H_star - x[5])) / (self.c_H**2), 0, 0])
         return gb
 
     def hb4_x(self, x):

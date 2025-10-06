@@ -25,8 +25,8 @@ class Control:
         # Control limits
         self.up_max = np.pi / 2  # [rad/sec]
         self.up_min = -np.pi / 2  # [rad/sec]
-        self.uz_min = -1  # g
-        self.uz_max = 4  # g
+        self.uz_min = -1
+        self.uz_max = 4
         self.u_bounds = (
             (self.up_min, self.up_max),
             (self.uz_min, self.uz_max),
