@@ -14,13 +14,10 @@ David E. J. van Wijk, Ersin Das, Tamas G. Molnar, Aaron D. Ames, Joel W. Burdick
 ## BibTeX Citation
 
 ```
-@misc{vanwijk2025safetycriticalcontrolboundedinputs,
-      title={Safety-Critical Control with Bounded Inputs: A Closed-Form Solution for Backup Control Barrier Functions}, 
-      author={David E. J. van Wijk and Ersin Da{\c{s}} and Tamas G. Molnar and Aaron D. Ames and Joel W. Burdick},
-      year={2025},
-      eprint={2510.05436},
-      archivePrefix={arXiv},
-      primaryClass={eess.SY},
-      url={https://arxiv.org/abs/2510.05436}, 
+@article{vanwijk2025safetycriticalcontrolboundedinputs,
+  title={Safety-Critical Control with Bounded Inputs: A Closed-Form Solution for Backup Control Barrier Functions},
+  author={van Wijk, David E J and Da{\c{s}}, Ersin and Molnar, Tamas G and Ames, Aaron D and Burdick, Joel W},
+  journal={arXiv preprint arXiv:2510.05436},
+  year={2025}
 }
 ```
