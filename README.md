@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="hero.png" alt="Hero figure" width="550"><br>
-  <em>Overview of the proposed safety-critical control synthesis framework, illustrated on a fixed-wing aircraft geofencing scenario. Our <b>optimally interpolated (OI)</b> controller guarantees the safety of nonlinear affine systems with input bounds and is obtained in closed-form..</em>
+  <em>Overview of the proposed safety-critical control synthesis framework, illustrated on a fixed-wing aircraft geofencing scenario. Our <b>optimally interpolated (OI)</b> controller guarantees the safety of nonlinear affine systems with input bounds and is obtained in closed-form.</em>
 </p>
 
 *Abstract*: 
